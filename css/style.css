@@ -25,3 +25,25 @@
     background-image: url(../img/image3.jpg);
     background-size: cover;
 }
+
+#home-heading {
+    min-height: 200px;
+    background-image: linear-gradient(to right bottom, rgba(0,0,0,.7), rgba(0,0,0,.7)), url(../img/lights.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+}
+
+#video-play {
+    min-height: 200px;
+    background-image: linear-gradient(to right bottom, rgba(0,0,0,.7), rgba(0,0,0,.7)), url(../img/media.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+}
+
+#video-play a {
+    color: #fff;
+}
